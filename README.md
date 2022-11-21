@@ -6,4 +6,4 @@ Primeiramente, criamos uma função chamada getQuote(). Dentro dessa função, b
 
 Aqui item .content nos dá a citação enquanto item.author nos dá o nome do autor. Em seguida, alteramos o conteúdo do texto da citação e do autor para item.contente, item.authorrespectivamente.
 
-Chamamos getQuote()quando o evento load é acionado no elemento janela ou o evento click é acionado no btnelemento.
+Chamamos getQuote()quando o evento load é acionado no elemento janela ou o evento click é acionado no btn elemento.
