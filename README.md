@@ -4,6 +4,6 @@ Da mesma forma, criamos uma variável chamada url que armazena o URL para nossa 
 
 Primeiramente, criamos uma função chamada getQuote(). Dentro dessa função, buscamos a URL e obtemos uma resposta JSON. Essa resposta é basicamente um objeto JSON. Agora temos que passar por esses dados e selecionar o conteúdo de nossa escolha.
 
-Aqui item .content nos dá a citação enquanto item.author nos dá o nome do autor. Em seguida, alteramos o conteúdo do texto da citação e do autor para item.contente, item.authorrespectivamente.
+O item .content me dá a citação enquanto item.author nos dá o nome do autor. Em seguida, alteramos o conteúdo do texto da citação e do autor para item .contente, item.author respectivamente.
 
-Chamamos getQuote()quando o evento load é acionado no elemento janela ou o evento click é acionado no btn elemento.
+Chamamos getQuote() quando o evento load é acionado no elemento janela ou o evento click é acionado no btn elemento.
